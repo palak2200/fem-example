@@ -1,0 +1,14 @@
+h1{
+    color:red;
+    font-style: italic;
+    text-align: right;
+    text-decoration: line-through;
+}
+h2{
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+    border: orange 5px dashed;
+    text-align: center;
+    background-color: slategray;
+}

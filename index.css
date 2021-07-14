@@ -1,0 +1,132 @@
+h1{
+    font-family:'Great Vibes', cursive;
+    text-align-last: center;
+    font-weight: normal;
+    margin:60px 0;
+    font-size:60px;
+    
+}
+.box-1{
+    border: 1px solid black;
+    border-top: 4px solid black;
+    height: 450px;
+    width: 400px;
+    padding-left: 2px;
+    justify-content: left;
+    float: left;
+    font-style: italic;
+    font-size: xx-small;
+}
+h2{
+    font-family:cursive;
+    text-align-last: center;
+    font-weight: 300;
+    font-style: italic;
+
+}
+.box-2{
+    font-weight: lighter;
+    border: 1px solid black;
+    border-top: 4px solid black;
+    height: 450px;
+    width: 700px;
+    justify-content: center;
+    float: none;
+    font-size: xx-small;
+    overflow:scroll;
+    padding-left:4px ;
+}
+.box-3{
+    border: 1px solid black;
+    border-top: 4px solid black;
+    height: 450px;
+    width: 400px;
+    padding-left: 2px;
+    justify-content: right;
+    float: right;
+    font-style: italic;
+    font-size: xx-small;
+
+}
+.flex-container{
+    display: flex
+    
+}
+h3{
+    font-weight: normal;
+text-align: center; 
+font-size: medium;   
+}
+.box-4{
+    border: 1px solid black;
+    border-top: 4px solid black;
+    height: 250px;
+    width: 400px;
+      display: block;
+    padding: 2px;
+    justify-content: bottom;
+    overflow: auto;
+    font-style: italic;
+    font-size: xx-small;
+}
+.box-5{
+    border: 1px solid black;
+    border-top: 4px solid black;
+    height: 250px;
+    width: 1100px;
+    overflow: scroll;
+    color: black;
+    justify-content: left;
+}
+.flex-container2{
+    display: flex;
+}
+#a1{
+text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: thistle;
+    width:1100 ;
+    height:80px ;
+    padding-left: 10px;
+    color:black;
+    text-decoration: black;
+}
+#a2{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: skyblue;
+    width:1100 ;
+    height:80px ;
+    padding-left: 10px;
+    color:black;
+}
+#a3{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: green;
+    width:1100 ;
+    height:80px ;
+    padding-left: 10px;
+    color: black;
+}
+#a4{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    background-color:blue;
+    width:1100 ;
+    height:80px ;
+    padding-left: 10px;
+    color: black;
+}
+#a5{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: purple;
+    width:1100 ;
+    height:80px ;
+    padding-left: 10px;
+   color: white;
+}
+a{
+    color: black;
+}

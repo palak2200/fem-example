@@ -1,0 +1,176 @@
+.box1{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    height:80px;
+    width: 100% ;
+    overflow: scroll;
+    font-family: monospace;
+    font-size: large;
+}
+
+.row{
+    display: flex-start;
+    border: 1px solid black;
+    width: 30%;
+    overflow: scroll;
+    
+
+}
+.box2{
+    display: flex;
+    font-family: monospace;
+    font-size: large;
+}  
+.b1
+{
+    width:49% ;
+    height:80px;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: large;
+}
+.b2
+{
+    width: 24.5%;
+    height:80px;
+   justify-content: space-between; 
+   font-family: monospace;
+   font-weight: bold;
+   font-size: large;
+}
+.b3{
+    width: 26.5%;
+    height:80px;
+    justify-content: space-between;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: large;
+    background-color:coral;
+}
+.b4
+{height:80px;
+    justify-content: space-between;
+    width: 24.5%;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: large;
+}
+.b5{
+    width: 24.5%;
+    height:80px;
+    justify-content: space-between;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: large;
+}
+.b6
+{
+    width: 24.5%;
+    height:80px;
+    justify-content: space-between;
+font-family: monospace;
+font-weight: bold;
+font-size: large;
+
+}
+.b7{
+    width: 26.5%;
+    height:80px;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: large;
+    background-color:coral;
+}
+.box3{
+    display: flex;
+    font-family: monospace;
+    font-size: large;
+}
+.b8{
+    width: 24.5%;
+    height:80px;
+    justify-content: space-between;
+font-family: monospace;
+font-weight: bold;
+font-size: large;
+}
+.b9{
+    width: 24.5%;
+    height:80px;
+    justify-content: space-between;
+font-family: monospace;
+font-weight: bold;
+font-size: large;
+}
+.b10{
+    width: 24.5%;
+    height:80px;
+    justify-content: space-between;
+font-family: monospace;
+font-weight: bold;
+font-size: large;
+}
+.b11{
+    width: 26.5%;
+    height:80px;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: large;
+    background-color:coral;
+}
+.box4{
+    display: flex;
+    font-family: monospace;
+    font-size: large;
+}
+.b12{
+    width: 24.5%;
+    height:80px;
+    justify-content: space-between;
+font-family: monospace;
+font-weight: bold;
+font-size: large;
+}
+.b13{
+    width: 24.5%;
+    height:80px;
+    justify-content: space-between;
+font-family: monospace;
+font-weight: bold;
+font-size: large;
+}
+.b14{    width: 24.5%;
+    height:80px;
+    justify-content: space-between;
+font-family: monospace;
+font-weight: bold;
+font-size: large;
+
+}
+.b15{
+    width: 26.5%;
+    height:80px;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: large;
+    background-color:coral;
+}
+.box5{
+    display: flex;
+    font-family: monospace;
+    font-size: large;
+}
+.b16{
+    width: 73.5%;
+    height:80px;
+    font-family: monospace;
+    font-size: large;
+}
+.b17{
+    width: 26.5%;
+    height:80px;
+    background-color:coral;
+    font-family: monospace;
+    font-size: large;
+}
